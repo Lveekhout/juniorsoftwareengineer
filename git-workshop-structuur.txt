@@ -15,6 +15,7 @@ Git Basics
 	reset HEAD / rm --cached
 	commit
 	log
+	gitk --all
 Git Branch
 	branch
 	checkout
